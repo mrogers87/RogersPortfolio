@@ -1,0 +1,42 @@
+<!doctypeHTML>
+<HTML lang="eng">
+<head>
+<title>
+Michael Rogers
+</title>
+<link href="css/legend.css" rel="stylesheet" type"text/css">			
+</head>
+<body>
+		<h1>Michael Rogers</h1>
+		<nav>
+		<a href="home.html">Home</a>
+		<a href="about.html">About</a>
+		<a href="contact.html">Contact</a>
+		</nav>
+<p>
+<img src="grandcircusimage.png">
+<img src="grandcircusimage.png">
+<img src="grandcircusimage.png">
+</div>
+<br>
+<br>
+<a href="http://www.grandcircus.co">Click Here to visit the Grand Circus Webpage</a>
+<br>
+			<blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas tellus odio, 
+			  	sit amet egestas enim convallis porttitor. Proin ut ultrices est. 
+				Vivamus vestibulum neque eu nunc posuere, a tincidunt enim euismod. 
+				Cras non risus non nisl euismod ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas tellus odio, 
+			  	sit amet egestas enim convallis porttitor. Proin ut ultrices est. 
+				Vivamus vestibulum neque eu nunc posuere, a tincidunt enim euismod. 
+				Cras non risus non nisl euismod ullamcorper.</blockquote>
+
+<ul>
+	<li>Lorem ipsum dolor sit amet,</li>
+	<li>Consectetur adipiscing elit</li>
+	<li>Maecenas egestas tellus odio,</li>
+	<li>sit amet egestas enim convallis porttitor.</li>
+</ul>
+
+	</body>
+	</div>
+</HTML>

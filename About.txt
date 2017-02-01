@@ -1,0 +1,35 @@
+<!doctypeHTML>
+<HTML lang="eng">
+<head>
+<title>
+Michael Rogers
+</title>
+<link href="css/legend.css" rel="stylesheet" type"text/css">			
+</head>
+	<body>
+<div>
+
+	<body style="background-color:powderblue;">
+		<h1>Michael Rogers</h1>
+		<nav>
+		<a href="home.html">Home</a>
+		<a href="about.html">About</a>
+		<a href="contact.html">Contact</a>
+		</nav>
+<p>
+<img src="grandcircusimage.png">
+<img src="grandcircusimage.png">
+<img src="grandcircusimage.png">
+<br>
+<br>
+This page is about me. 
+
+
+
+
+
+
+
+
+
+</HTML>
